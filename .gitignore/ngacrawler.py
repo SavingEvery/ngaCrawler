@@ -1,5 +1,6 @@
 #--code utf-8--
 #create by user:summerwind mail:635864540@qq.com date:20171025
+#python 2.7
 
 import json
 import string
